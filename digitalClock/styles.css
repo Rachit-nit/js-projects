@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right bottom, cyan, blue);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#myH1 {
+    font-size: 7em;
+    color: navy;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.6);
+}

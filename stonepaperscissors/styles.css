@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.container{
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 15px 45px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button{
+    height: 150px;
+    width: 140px;
+    background-color: white;
+    cursor: pointer;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+button:active{
+    opacity: 0.3;
+}
+
+button:hover{
+    opacity: 0.6;
+}
+
+#reset{
+    height: 50px;
+    width: 80px;
+    border: none;
+    background-color: black;
+    color: white;
+}
