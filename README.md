@@ -1,4 +1,5 @@
 # js-projects
-Rachit Saxena
-ECE 29
+Rachit Saxena<br>
+ECE 29<br>
 Built a counter app using HTML, CSS, JS
+![counter]()
